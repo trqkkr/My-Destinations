@@ -73,8 +73,12 @@ h2 {
 }
 
 #amsterdam {
-  background-color: #7C00B2;
+  background: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iNjAwIiB2aWV3Qm94PSIwIDAgOSA2Ij4NCjxwYXRoIGZpbGw9IiMyMTQ2OGIiIGQ9Im0wLDBoOXY2aC05eiIvPg0KPHBhdGggZmlsbD0iI2ZmZiIgZD0ibTAsMGg5djRoLTl6Ii8+DQo8cGF0aCBmaWxsPSIjYWUxYzI4IiBkPSJtMCwwaDl2MmgtOXoiLz4NCjwvc3ZnPg0K');
+  width: 100%;
+  height: 100%;
+  background-size: contain;
 }
 
 #dominicanRepublic {
+
 }
